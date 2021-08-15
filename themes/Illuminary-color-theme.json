@@ -5,7 +5,7 @@
   #F5DF4D Illuminating (Yellow)
   #4ABBD5 Bachelor Button (Blue)
   #F2F0EB Snow White
-  #1D1F2A Rich Black (Pantone 532 C)
+  #1D1F2A Random Rich Black (Pantone 532 C)
 
 */
 
@@ -31,7 +31,7 @@
       "name": "Boolean",
       "scope": "constant.language.boolean",
       "settings": {
-        "foreground": "#939597"
+        "foreground": "#F5DF4D"
       }
     },
     {
@@ -345,10 +345,10 @@
   "colors": {
     "focusBorder": "#939597",
     "foreground": "#F2F0EB",
-    "button.background": "#939597",
+    "button.background": "#1D1F2A",
     "button.foreground": "#F2F0EB",
-    "dropdown.background": "#2e3143",
-    "input.background": "#2e3143",
+    "dropdown.background": "#1D1F2A",
+    "input.background": "#1D1F2A",
     "inputOption.activeBorder": "#939597",
     "list.activeSelectionBackground": "#93959780",
     "list.activeSelectionForeground": "#F2F0EB",
@@ -359,6 +359,8 @@
     "list.hoverBackground": "#F2F0EB1a",
     "list.inactiveSelectionBackground": "#F2F0EB33",
     "activityBar.background": "#1D1F2A",
+    "activityBar.activeBorder": "#F2F0EB",
+    "activityBar.foreground": "#F2F0EB",
     "activityBarBadge.background": "#939597",
     "activityBarBadge.foreground": "#F2F0EB",
     "badge.background": "#939597",
@@ -368,8 +370,8 @@
     "editorGroup.dropBackground": "#93959780",
     "editorGroup.focusedEmptyBorder": "#939597",
     "editorGroupHeader.tabsBackground": "#1D1F2A",
-    "tab.border": "#00000033",
-    "tab.activeBorder": "#939597",
+    "tab.border": "#1D1F2A",
+    "tab.activeBorder": "#1D1F2A",
     "tab.inactiveBackground": "#1D1F2A",
     "tab.activeModifiedBorder": "#939597",
     "tab.inactiveModifiedBorder": "#58595a",
@@ -393,7 +395,7 @@
     "panelTitle.activeBorder": "#F2F0EB80",
     "panelTitle.inactiveForeground": "#F2F0EB80",
     "statusBar.background": "#1D1F2A",
-    "statusBar.debuggingBackground": "#939597",
+    "statusBar.debuggingBackground": "#1D1F2A",
     "statusBar.debuggingForeground": "#F2F0EB",
     "statusBar.noFolderBackground": "#1D1F2A",
     "statusBarItem.activeBackground": "#93959780",
@@ -403,6 +405,15 @@
     "titleBar.activeBackground": "#1D1F2A",
     "pickerGroup.border": "#F2F0EB1a",
     "debugToolBar.background": "#1D1F2A",
-    "selection.background": "#939597"
+    "selection.background": "#939597",
+
+    "minimap.errorHighlight": "#F5DF4D",
+    "minimap.findMatchHighlight": "#939597",
+    "minimap.selectionHighlight": "#F2F0EB1a",
+    "editorOverviewRuler.errorForeground": "#F5DF4D",
+    "editorOverviewRuler.findMatchForeground": "#F2F0EB1a",
+    "editor.findMatchHighlightBackground": "#F2F0EB1a",
+    "editor.selectionBackground": "#F2F0EB1a",
+    "errorForeground": "#F5DF4D"
   }
 }
