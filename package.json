@@ -1,16 +1,29 @@
 {
     "name": "illuminary",
     "displayName": "Illuminary",
-    "publisher": "Aerobird98",
     "description": "Illuminary is a vibrant dark-yellowish theme for vscode based on the Pantone colors of the year 2021.",
+    "publisher": "Aerobird98",
     "version": "0.0.1",
     "license": "MIT",
+    "author": {
+        "name": "Aerobird98",
+        "url": "https://github.com/Aerobird98"
+    },
+    "readme": "README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aerobird98/illuminary"
+    },
+    "bugs": {
+        "url": "https://github.com/Aerobird98/illuminary/issues"
+    },
     "scripts": {
       "start": "tsc index.ts && node index.js"
     },
     "engines": {
         "vscode": "^1.59.0"
     },
+    "icon": "images/illuminary_256x256.png",
     "categories": [
         "Themes"
     ],
@@ -23,6 +36,16 @@
             }
         ]
     },
+    "galleryBanner": {
+        "color": "#1D1F2A",
+        "theme": "dark"
+    },
+    "keywords": [
+        "Illuminary",
+        "Dark",
+        "Yellow",
+        "Illuminati"
+    ],
     "devDependencies": {
         "vscode-theme-generator": "^0.1.5",
         "typescript": "^4.3.5"
