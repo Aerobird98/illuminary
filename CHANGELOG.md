@@ -15,3 +15,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Enabled semantic highlighting in the theme file,
 - Made the UI theme more subtle and elegant also more accsesible.
 - Added a new red color for strings, numbers, Booleans and other tokens.
+
+## [0.0.3]
+
+- Tweaked colors more (still not complete),
+- Added Wren support based on the Luxe extension,
+- Removed all focus borders properly (Made them less annoying)
