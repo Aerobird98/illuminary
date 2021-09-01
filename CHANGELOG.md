@@ -11,13 +11,18 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.2]
 
 - Adjusted colors for shadows,
-- Tweaked colors for markdown, html, css and json syntax.
+- Tweaked colors for markdown, html, css and json syntax,
 - Enabled semantic highlighting in the theme file,
-- Made the UI theme more subtle and elegant also more accsesible.
+- Made the UI theme more subtle and elegant also more accsesible,
 - Added a new red color for strings, numbers, Booleans and other tokens.
 
 ## [0.0.3]
 
 - Tweaked colors more (still not complete),
 - Added Wren support based on the Luxe extension,
-- Removed all focus borders properly (Made them less annoying)
+- Removed all focus borders properly (Made them less annoying).
+
+## [0.0.4]
+
+- Added preview image to README,
+- Added License file.
